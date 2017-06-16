@@ -1,0 +1,6 @@
+Make|Model|Color|Year|Price|TCC Rating|Hwy MPG|Full Consumption
+Honda|CRV|Green|2016|$23,845|8|33|0
+Ford|Escape|Red|2017|$23,590|7.8|32|0
+Hyundai|Sante Fe|Grey|2016|$24,950|8|27|0
+Mazda|CX-5|Red|2017|$21,795|8|35|0
+Subaru|Forester|Blue|2016|$22,395|8.4|32|0
