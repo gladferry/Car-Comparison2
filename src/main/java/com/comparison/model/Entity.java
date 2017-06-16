@@ -26,7 +26,7 @@ public class Entity {
 		return model;
 	}
 	public void setModel(String model) {
-		this.model = model;
+		this.model = model; 
 	}
 	public String getColor() {
 		return color;
